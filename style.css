@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+#welcome{
+    background-color: linear-gradient (#fc03d7 0%, #1a0aa8 100%);
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+#myname{
+    font-family: 'Courgette' , cursive;
+}
+.line{
+    background-color: #000;
+    height: 6px;
+    width: 70px;
+    margin: 8px , auto;
+}
+.link:hover{
+    background-color: dodgerblue;
+}
